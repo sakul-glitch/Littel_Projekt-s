@@ -1,0 +1,38 @@
+1. 
+===
+if exist "file.bat" (
+    call secret_menu_
+) else (
+    goto :weiter_
+)
+===
+
+2.
+===
+@ECHO OFF
+title diepi dip schop.
+set "localversion = 0.0.0"
+color A
+cls
+==
+
+3.
+===
+if exist "file.bat" ECHO f1 exist!
+if not exist "file.bat" ECHO f1 does not exist!
+===
+
+4.
+===
+
+echo.
+echo --------------------------------------
+echo        - test -
+echo --------------------------------------
+echo.
+
+echo #--------------------------------------# 
+===
+
+5.
+===
