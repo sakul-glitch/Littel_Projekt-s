@@ -72,6 +72,7 @@ set /p choice="Gib deine Wahl ein: "
 if /i "%choice%"=="1" goto pong
 if /i "%choice%"=="2" goto snake
 if /i "%choice%"=="3" goto tetris
+
 if /i "%choice%"=="4" exit
 else echo Ungültige Wahl, bitte versuche es erneut.
 timeout /t 2 /nobreak > nul
