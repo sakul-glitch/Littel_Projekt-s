@@ -36,3 +36,15 @@ echo #--------------------------------------#
 
 5.
 ===
+echo.
+echo Hinweis: Dieses Spiel ist in Entwicklung und kann Fehler enthalten.
+echo.
+echo Weitere Informationen findest du auf:
+echo %REPO_URL%
+echo %wep_URL%
+echo --------------------------------------
+echo.
+===
+
+6.
+===
